@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi 👋, I'm Anupam Yadav</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anupamyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="anupamyadav01" />
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ReactJS, NextJS, TypeScript, and NodeJS**
 
-- 💬 Ask me about **React, JavaScript, NodeJS**
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **anupamy571@gmail.com**
 
